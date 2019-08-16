@@ -1,7 +1,10 @@
 {
     "homepage": "https://symless.com/synergy",
     "version": "1.10.0",
-    "bin": "Synergy/synergy.exe",
     "url": "https://raw.githubusercontent.com/danyow/resource/master/synergy/synergy_1.10.0-stable_b39-275cdc1c_windows-x64.msi",
-    "hash": "412948C34C7BB64651EEF77B71A8BAB8DFA40A8450E137248C7113E2C64D2F27"
+    "hash": "412948C34C7BB64651EEF77B71A8BAB8DFA40A8450E137248C7113E2C64D2F27",
+    "shortcuts": [
+        "Synergy/synergy.exe",
+        "Synergy"
+    ]
 }
